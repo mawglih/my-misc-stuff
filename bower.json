@@ -1,0 +1,24 @@
+{
+  "name": "doctor",
+  "authors": [
+    "Oleg Markoff <mawglih@gmail.com>"
+  ],
+  "description": "doctor website",
+  "main": "",
+  "keywords": [
+    "doctor",
+    "alcohol"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.3"
+  }
+}

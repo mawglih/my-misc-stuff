@@ -1,0 +1,238 @@
+// bower:scss
+// endbower
+body {
+    background-color: #e0e0d1;
+    font-size: 1.2em;
+    color: #1f1f14;
+    padding: 30px 0 0 0;
+    box-sizing: border-box;
+}
+
+
+/* Everything but the jumbotron gets side spacing for mobile first views */
+
+.header,
+.marketing,
+.footer {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+
+/* Custom page header */
+
+.header {
+    border-bottom: 1px solid #e5e5e5;
+    margin-bottom: 10px;
+    /* Make the masthead heading the same height as the navigation */
+    h3 {
+        margin-top: 0;
+        margin-bottom: 0;
+        line-height: 40px;
+        padding-bottom: 19px;
+    }
+}
+
+
+/* Custom page footer */
+
+.footer {
+    padding-top: 19px;
+    color: #777;
+    border-top: 1px solid #e5e5e5;
+    padding-bottom: 20px;
+}
+
+.container-narrow>hr {
+    margin: 30px 0;
+}
+
+
+/* Main marketing message and sign up button */
+
+.jumbotron {
+    background-color: #ffe6ff;
+    text-align: center;
+    border-bottom: 1px solid #e5e5e5;
+    .btn {
+        font-size: 21px;
+        padding: 14px 24px;
+    }
+}
+
+
+/* Supporting marketing content */
+
+.marketing {
+    margin: 40px 0;
+    p+h4 {
+        margin-top: 28px;
+    }
+}
+
+
+/* Responsive: Portrait tablets and up */
+
+@media screen and (min-width: 768px) {
+    .container {
+        max-width: 730px;
+    }
+    /* Remove the padding we set earlier */
+    .header,
+    .marketing,
+    .footer {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    /* Space out the masthead */
+    .header {
+        margin-bottom: 30px;
+    }
+    /* Remove the bottom border on the jumbotron for visual effect */
+    .jumbotron {
+        border-bottom: 0;
+    }
+}
+
+#navbar-div {
+    background-color: #d279a6;
+}
+
+a {
+    color: #fff;
+}
+
+#nav-list {
+    a:link {
+        color: 0;
+    }
+    a:hover {
+        color: 0;
+    }
+    a:active {
+        color: blue;
+    }
+}
+
+#brand-id {
+    color: #4dff4d;
+}
+
+.icon-bar {
+    background-color: #4dff4d;
+}
+
+button.navbar-toggle {
+    border: 1px solid #4dff4d;
+}
+
+.div-prop {
+    height: 500px;
+    background-color: #777;
+}
+
+.div-prop1 {
+    height: 500px;
+    background-color: #66d9ff;
+}
+
+.div-prop2 {
+    height: 500px;
+    background-color: #dfff80;
+}
+
+.footer-info {
+    background-color: #777;
+    color: #4dff4d;
+    font-size: 150%;
+}
+
+.font-regular {
+    font-size: initial;
+    color: #fff;
+}
+
+#picture-jumbo {
+    position: relative;
+}
+
+#button-jumbo1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#button-jumbo2 {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+#button-jumbo3 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+#background-image {
+    max-width: 100%;
+}
+
+.glyphicon-plus,
+.glyphicon-minus {
+    color: #4dff4d;
+}
+
+.accord-narc {
+    border: 1px solid #d279a6;
+    background-color: #d279a6;
+    color: #fff;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.narc-header {
+    border: 1px solid #000000;
+    border-radius: 20px;
+    background-color: #aaa;
+    padding: 20px 0 20px 0;
+}
+
+.image-most {
+    width: 100%;
+}
+
+.image-doctor {
+    padding: 10px;
+    max-width: 300px;
+    border: 10px solid #4dff4d;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.hr-style {
+    border: 3px solid #4dff4d;
+    height: 8px;
+}
+
+.cert-images {
+    padding: 20px;
+    margin: 30px;
+}
+
+.th-class {
+    width: 200px;
+    text-align: center;
+}
+
+#table-apteka h4 {
+    color: 0;
+}
+
+#about-div {
+    padding: 10px 20px 5px 20px;
+}
+
+#my-copyright {
+    color: #fff;
+}

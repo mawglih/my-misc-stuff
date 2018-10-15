@@ -1,0 +1,41 @@
+[{
+        "name": "img1",
+        "imgPath": "/images/doctor/img1.png"
+    },
+    {
+        "name": "img2",
+        "imgPath": "/images/doctor/img2.png"
+    },
+    {
+        "name": "img3",
+        "imgPath": "/images/doctor/img3.png"
+    },
+    {
+        "name": "img4",
+        "imgPath": "/images/doctor/img4.png"
+    },
+    {
+        "name": "img5",
+        "imgPath": "/images/doctor/img5.png"
+    },
+    {
+        "name": "img6",
+        "imgPath": "/images/doctor/img6.png"
+    },
+    {
+        "name": "img7",
+        "imgPath": "/images/doctor/img7.png"
+    },
+    {
+        "name": "img8",
+        "imgPath": "/images/doctor/img8.png"
+    },
+    {
+        "name": "img9",
+        "imgPath": "/images/doctor/img9.png"
+    },
+    {
+        "name": "img10",
+        "imgPath": "/images/doctor/img10.png"
+    }
+]
